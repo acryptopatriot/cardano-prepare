@@ -1,4 +1,4 @@
 #!/bin/bash
-apt update
+apt update -y
 apt install ansible
 apt install sshpass
